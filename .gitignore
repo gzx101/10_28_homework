@@ -1,0 +1,4 @@
+# Jupyter 自动备份缓存，不要提交
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
